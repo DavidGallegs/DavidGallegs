@@ -28,6 +28,6 @@ Soy un Desarrollador Web Junior apasionado por construir interfaces rápidas, es
 
 * **[WEB HOTELES](https://github.com/DavidGallegs/AppWebHotel)**: Plataforma integral para un hotel rural con paneles de administración y check-in legal. Destaca por optimizar el rendimiento usando vistas híbridas (React + Astro) y por estar completamente orquestada en contenedores Docker.
 
-## 📈 Estadísticas de GitHub
+## Estadísticas de GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=DavidGallegs&show_icons=true&theme=radium&hide_border=true&v=1" alt="GitHub Stats" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidGallegs&theme=radium&hide_border=true)
