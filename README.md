@@ -9,7 +9,7 @@ Soy un Desarrollador Web Junior apasionado por construir interfaces rápidas, es
 * Buscando mi primera oportunidad profesional para sumar esfuerzo en un equipo, aportar valor y seguir aprendiendo.
 * Cómo contactarme: **davidgallegs11@gmail.com**
 
-## 🛠️ Mi Stack Tecnológico
+## Mi Stack Tecnológico
 
 ### Front-end
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,6 +24,10 @@ Soy un Desarrollador Web Junior apasionado por construir interfaces rápidas, es
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Proyectos Destacados
+
+* **[WEB HOTELES](https://github.com/DavidGallegs/AppWebHotel)**: Plataforma integral para un hotel rural con paneles de administración y check-in legal. Destaca por optimizar el rendimiento usando vistas híbridas (React + Astro) y por estar completamente orquestada en contenedores Docker.
+
 ## 📈 Estadísticas de GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidGallegs&show_icons=true&theme=radium&hide_border=true)](https://github.com/DavidGallegs)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidGallegs&theme=radium&hide_border=true)
