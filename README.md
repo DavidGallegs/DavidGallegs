@@ -30,4 +30,4 @@ Soy un Desarrollador Web Junior apasionado por construir interfaces rápidas, es
 
 ## 📈 Estadísticas de GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidGallegs&theme=radium&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=DavidGallegs&show_icons=true&theme=radium&hide_border=true&v=1" alt="GitHub Stats" />
