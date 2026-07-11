@@ -1,13 +1,13 @@
-# ¡Hola! Soy David Gallegos 👋
+# ¡Hola! Soy David Gallegos
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Soy un Desarrollador Web Junior apasionado por construir interfaces rápidas, escalables y modernas. Me encanta trabajar en la capa visual, pero también disfruto cerrando el ciclo de vida del software asumiendo el empaquetado y gestionando mis propios despliegues.
 
-* 🚀 Actualmente enfocado en exprimir al máximo el rendimiento web y la arquitectura de componentes.
-* 💡 Me gusta investigar sobre la integración de React dentro de Astro y cómo contenerizar aplicaciones eficientemente.
-* 🤝 Buscando mi primera oportunidad profesional para sumar esfuerzo en un equipo, aportar valor y seguir aprendiendo.
-* 📫 Cómo contactarme: **davidgallegs11@gmail.com**
+* Actualmente enfocado en exprimir al máximo el rendimiento web y la arquitectura de componentes.
+* Me gusta investigar sobre la integración de React dentro de Astro y cómo contenerizar aplicaciones eficientemente.
+* Buscando mi primera oportunidad profesional para sumar esfuerzo en un equipo, aportar valor y seguir aprendiendo.
+* Cómo contactarme: **davidgallegs11@gmail.com**
 
 ## 🛠️ Mi Stack Tecnológico
 
